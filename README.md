@@ -1,6 +1,6 @@
 # Project Introduction
 
-Welcome to the DBTest project! This project is designed to help you test and validate your database configurations and queries. It provides a suite of tools and scripts to ensure your database operations are running smoothly and efficiently.
+Welcome to MySQL & SpringBoot Demo project.
 
 ## Features
 
